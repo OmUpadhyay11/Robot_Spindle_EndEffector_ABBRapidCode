@@ -36,6 +36,7 @@ MODULE mAUTODESK
 
     ! Spindle OFF
     ! SetDO Local_IO_0_DO11, 0;
+    WaitTime 5;
 
     ConfJ\On;
     ConfL\On;

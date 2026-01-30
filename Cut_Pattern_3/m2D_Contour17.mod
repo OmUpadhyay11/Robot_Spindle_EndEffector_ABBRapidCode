@@ -12,6 +12,7 @@ MODULE m2D_Contour17
 
     ! Spindle ON 
     ! SetDO Local_IO_0_DO11, 1;
+    WaitTime 5;
 
     ! Plunge Move Starts
     MoveL [[2449.353,-1045.85,2],[0,-0.25881905,0.96592583,0],[0,0,0,0],[9E9,9E9,9E9,9E9,9E9,9E9]],v50,z1,tADSK27\WObj:=wADSK0;

@@ -1,0 +1,8 @@
+*** Status File - Not for use ***
+Files are saved to: C:\Users\Om Upadhyay\OneDrive - University of Waterloo\Documents\RoBIM Co-op Winter 2026\Spindle Programming\Pattern4_V2
+Main program: Pattern4_V2.pgf
+  mAutodesk.mod
+  m2D_Contour26.mod
+  m2D_Contour27.mod
+  m2D_Contour28.mod
+  m2D_Contour30.mod
